@@ -1,0 +1,24 @@
+{
+  "name": "bamazonManager",
+  "version": "1.0.0",
+  "description": "An Amazon-like storefront with the MySQL",
+  "main": "bamazonManager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronnealy/bamazonManager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronnealy/bamazonManager/issues"
+  },
+  "homepage": "https://github.com/aaronnealy/bamazonManager#readme",
+  "dependencies": {
+    "inquirer": "^6.4.1",
+    "mysql": "^2.17.1"
+  }
+}
