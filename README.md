@@ -11,5 +11,5 @@ Bamazon is an amazon-like storefront with the MySQL. The manager application all
 
 [![Demo](https://i.imgur.com/0CJZC48.png)](https://www.youtube.com/watch?v=ukeLFSZy_Yc "Demo - Click to Watch!")
 
-* Add to Inventory currently does not work as intended. The function is able to update an item based off the item name, however, when trying to update the quantity of that item, the function sets quantity to 0. This can be seen in the demo*
+*Add to Inventory currently does not work as intended. The function is able to update an item based off the item name, however, when trying to update the quantity of that item, the function sets quantity to 0. This can be seen in the demo.*
 
