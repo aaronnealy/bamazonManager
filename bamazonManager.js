@@ -150,6 +150,6 @@ function viewInventory(){
           viewProducts();
         }
       );
-      })
       start();
+      }) 
   }
